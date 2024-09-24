@@ -1,0 +1,7 @@
+venv/*
+
+!venv/notifier.py
+!venv/pyvenv.cfg
+!venv/requirements.txt
+
+.env
