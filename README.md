@@ -16,5 +16,8 @@ This Python-based project monitors cryptocurrency prices in real-time and sends 
 - **24-Hour Low Alerts**: Notifies users when prices reach new lows.
 - **Customizable Settings**: Users can set their preferred notification thresholds.
 
+ [Watch the Crypto Price Notifier Preview](https://github.com/Web-Dev-Learner/crypto-notifier/raw/main/Preview-cryptonotifier.mp4)
+
+
 
 
